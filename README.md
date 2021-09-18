@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **panghyuk/panghyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=panghyuk&show_icons=true&theme=radical)
+<a href="https://www.instagram.com/5_pang/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/E4405F style=flat-square&logo=appveyoi&logoColor=E4405F"/></a>
