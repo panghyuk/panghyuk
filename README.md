@@ -12,8 +12,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=panghyuk&show_icons=true&theme=radical)
-
-<a href="https://www.instagram.com/5_pang/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/E4405F style=flat-square&logo=appveyoi&logoColor=E4405F"/></a>
-
-<a href="https://www.instagram.com/5_pang/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=appveyor&logoColor=E4405F"/></a>
